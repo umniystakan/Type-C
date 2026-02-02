@@ -6728,4 +6728,11 @@ SUMMARY:День рождения Стакана
 DESCRIPTION:ХЭЭЭЭЭ С ДНЮХОЙ МЕНЯ ХЫЫЫ (ну кто не понял я стакан разработчик день рождения у меня)
 RRULE:FREQ=YEARLY
 END:VEVENT
+BEGIN:VEVENT
+UID:20260920-birthday
+DTSTART;VALUE=DATE:20260920
+SUMMARY:День рождения Спокойного чайника
+DESCRIPTION:ХЫЫЫ С ДР ТЕБЯ ЧАЙНИКО
+RRULE:FREQ=YEARLY
+END:VEVENT
 END:VCALENDAR
