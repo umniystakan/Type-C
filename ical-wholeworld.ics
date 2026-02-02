@@ -6721,4 +6721,11 @@ RRULE:FREQ=YEARLY
 SUMMARY:День Святого Сильвестра у западных христиан
 URL:https://www.calend.ru/holidays/0/0/312/
 END:VEVENT
+BEGIN:VEVENT
+UID:20260527-birthday
+DTSTART;VALUE=DATE:20260527
+SUMMARY:День рождения Стакана
+DESCRIPTION:ХЭЭЭЭЭ С ДНЮХОЙ МЕНЯ ХЫЫЫ (ну кто не понял я стакан разработчик день рождения у меня)
+RRULE:FREQ=YEARLY
+END:VEVENT
 END:VCALENDAR
